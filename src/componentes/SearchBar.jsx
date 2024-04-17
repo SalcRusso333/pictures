@@ -28,6 +28,6 @@ function SearchBar({ onSubmit }){
                  <button onClick={handleClick}>Click Me!</button>
             </div>
         )
-
-
 }
+
+export default SearchBar
